@@ -33,9 +33,9 @@ The dataset underwent several preprocessing steps to improve data quality and an
 
 The project utilized:
 
-* application_data.csv
-* previous_application.csv
-* columns_description.csv
+* `application_data.csv`
+* `previous_application.csv`
+* `columns_description.csv`
 
 ---
 
